@@ -22,7 +22,7 @@ class Prices extends StatelessWidget {
                   margin: EdgeInsets.all(10),
                   padding: EdgeInsets.fromLTRB(40, 40, 40, 40),
                   //color: Colors.green[100],
-                  decoration: BoxDecoration(
+                  #decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(20),
                   ),
                   child: Column(
