@@ -26,7 +26,7 @@ class LoginScreen extends StatelessWidget {
             ],
             headerBuilder: (context, constriant, _) {
               return const CircleAvatar(
-                radius: 200,
+                radius: 199,
                 backgroundImage: AssetImage('asset/ic_launcher.jpg'),
               );
             },
