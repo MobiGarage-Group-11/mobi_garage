@@ -1,2 +1,2 @@
-# mobig
-is an application that connects mechanics and the customers in need of thier services
+# Mobi_Garage
+This is basically an android application that enables drivers and any other stakeholder to easily locate Oriental Motors Garage, book car services, order for car spare parts and also enables drivers to access FAQ regarding mechanical car issues.
