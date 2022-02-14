@@ -1,3 +1,5 @@
+// ignore_for_file: camel_case_types, file_names, use_key_in_widget_constructors
+
 import 'package:flutter/material.dart';
 
 import 'SizeConfig.dart';
@@ -8,7 +10,7 @@ class About_us extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.green,
-        title: Text('MOBIGARAGE'),
+        title: const Text('MOBIGARAGE'),
       ),
       body: SingleChildScrollView(
         child: Column(
@@ -20,7 +22,7 @@ class About_us extends StatelessWidget {
               width: 1000 * SizeConfig.widthMultiplier,
               //height: 1000.0,
               child: RichText(
-                text: TextSpan(
+                text: const TextSpan(
                     text: 'About us\n\n',
                     style: TextStyle(
                       color: Colors.black,
@@ -71,8 +73,7 @@ class About_us extends StatelessWidget {
               height: 300,
               decoration: const BoxDecoration(
                 image: DecorationImage(
-                    image: AssetImage('assets/images/garagg.jpg'),
-                    fit: BoxFit.fill),
+                    image: AssetImage('asset/garagg.jpg'), fit: BoxFit.fill),
               ),
             )
           ],
