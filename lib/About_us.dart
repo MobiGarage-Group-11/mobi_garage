@@ -20,7 +20,7 @@ class About_us extends StatelessWidget {
               color: Colors.green[100],
               padding: const EdgeInsets.fromLTRB(50, 120, 10, 10),
               width: 1000 * SizeConfig.widthMultiplier,
-              //height: 1000.0,
+              //height: 1000,
               child: RichText(
                 text: const TextSpan(
                     text: 'About us\n\n',
