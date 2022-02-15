@@ -68,18 +68,5 @@ class About_us extends StatelessWidget {
                     ]),
               ),
             ),
-            Container(
-              width: 1000 * SizeConfig.widthMultiplier,
-              height: 300,
-              decoration: const BoxDecoration(
-                image: DecorationImage(
-                    image: AssetImage('asset/garagg.jpg'), fit: BoxFit.fill),
-              ),
-            )
-          ],
-        ),
-      ),
-    );
-  }
-}
+            
 
