@@ -1,6 +1,6 @@
 // ignore_for_file: camel_case_types, file_names, use_key_in_widget_constructors
 
-impor 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
 
 import 'SizeConfig.dart';
 
