@@ -2,7 +2,7 @@
 //import 'package:footer/footer_view.dart';
 
 // ignore_for_file: unused_element, non_constant_identifier_names, file_names, prefer_const_constructors_in_immutables, prefer_const_constructors
-import 'package:firebase_auth/firebase_auth.dart';
+impor 'package:firebase_auth/firebase_auth.dart';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
