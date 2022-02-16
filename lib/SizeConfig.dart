@@ -1,6 +1,6 @@
 // ignore_for_file: avoid_print
 
-import 'package:flutter/widgets.dart';
+impor 'package:flutter/widgets.dart';
 import 'package:flutter/material.dart';
 
 class SizeConfig {
