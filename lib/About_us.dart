@@ -12,6 +12,7 @@ class About_us extends StatelessWidget {
         backgroundColor: Colors.green,
         title: const Text('MOBIGARAGE'),
       ),
+      // make scroolable
       body: SingleChildScrollView(
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
