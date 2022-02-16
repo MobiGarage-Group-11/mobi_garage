@@ -175,7 +175,7 @@ void _sendSMS(String message, List<String> recipents) async {
     print(onError);
   });
   Fluttertoast.showToast(
-      msg: "Order sent, add text msg for quicker respose",
+      msg: "Order sent, add text message for quicker response",
       toastLength: Toast.LENGTH_SHORT,
       gravity: ToastGravity.CENTER,
       fontSize: 16.0);
