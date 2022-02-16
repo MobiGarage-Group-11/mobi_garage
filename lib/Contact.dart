@@ -42,7 +42,7 @@ class Contact extends StatelessWidget {
                           'Kampala (U)\n' +
                           'Tel: 0756322224\n' +
                           'Tel: 07726219954\n' +
-                          'Leave a comment about our services.\n' +
+                          'Leave a comment about our services received.\n' +
                           'We will be glad to resolve the issues for better services' +
                           'Sign Up to become a member and enjoy more of our offers',
                       style: TextStyle(
